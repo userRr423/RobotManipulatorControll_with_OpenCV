@@ -4,10 +4,10 @@
 
 ![Готовый проект](https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/robot.jpg?raw=true)
 
-<div style="text-align: center;">
+
 <img src="https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/main.jpg?raw=true" alt="Описание изображения" width="300" height="600"/>
-</div>
 
-![Готовый проект](https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/computer_vision.jpg?raw=true)
+<img src="https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/computer_vision.jpg?raw=true" alt="Описание изображения" width="300" height="600"/>
 
-![Готовый проект](https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/sensor_controll.png?raw=true)
+<img src="https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/sensor_controll.png?raw=true" alt="Описание изображения" width="300" height="600"/>
+
