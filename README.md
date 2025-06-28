@@ -4,6 +4,8 @@
 
 ![Готовый проект](https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/robot.jpg?raw=true)
 
+<p>Интерфейс</p>
+
 
 <p align="center">
 <img src="https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/main.jpg?raw=true" alt="Описание изображения" width="300" height="500"/>
