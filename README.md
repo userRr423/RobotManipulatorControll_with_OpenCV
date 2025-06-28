@@ -4,7 +4,7 @@
 
 <p>Готовый проект</p>
 <p align="center">
-<img src="https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/robot.jpg?raw=true" alt="Описание изображения" width="800" height="600"/>
+<img src="https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/robot.jpg?raw=true" alt="Описание изображения" width="800" height="500"/>
 </p>
 
 <p>Интерфейс</p>
