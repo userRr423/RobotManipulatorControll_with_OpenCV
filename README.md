@@ -6,10 +6,10 @@
 
 
 <p align="center">
-<img src="https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/main.jpg?raw=true" alt="Описание изображения" width="300" height="600"/>
- <img src="https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/computer_vision.jpg?raw=true" alt="Описание изображения" width="300" height="600"/>
+<img src="https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/main.jpg?raw=true" alt="Описание изображения" width="300" height="500"/>
+ <img src="https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/computer_vision.jpg?raw=true" alt="Описание изображения" width="300" height="500"/>
 
-<img src="https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/sensor_controll.png?raw=true" alt="Описание изображения" width="700" height="600"/>
+<img src="https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/sensor_controll.png?raw=true" alt="Описание изображения" width="700" height="500"/>
 </p>
 
 
