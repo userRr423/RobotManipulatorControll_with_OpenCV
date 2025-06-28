@@ -3,9 +3,8 @@
  примере прототипа промышленного робота-манипулятора". <br> В которой было разработано Android приложение, запрграмированн микроконтроллер Arduino для управлениия роботом-манипулятором, смоделирован и распечатан на 3D-принтере робот-манипулятор и рабочее окружение к нему. Мобильное приложение позволяет подключатсья к роботу по Bluetooth и управлять им как отдельными суставами так и несколькими с помощью алгоритма обратной кинематики указывая цель перемещения на экране, также используя компьютерное зрение использовать робота в задачи обнаружения и сортировки в нужную позицию с помощью OpenCV и маркеров ArUco.
 
 <p>Готовый проект</p>
-![Готовый проект](https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/robot.jpg?raw=true)
 <p align="center">
-<img src="https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/robot.jpg?raw=true" alt="Описание изображения" width="600" height="700"/>
+<img src="https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/robot.jpg?raw=true" alt="Описание изображения" width="800" height="700"/>
 </p>
 
 <p>Интерфейс</p>
