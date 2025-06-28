@@ -4,7 +4,7 @@
 
 ![Готовый проект](https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/robot.jpg?raw=true)
 
-<img src="https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/main.jpg?raw=true" alt="Описание изображения" width="300" height="100"/>
+<img src="https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/main.jpg?raw=true" alt="Описание изображения" width="300" height="600"/>
 
 
 ![Готовый проект](https://github.com/userRr423/RobotManipulatorControll_with_OpenCV/blob/main/computer_vision.jpg?raw=true)
